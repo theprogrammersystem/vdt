@@ -22,7 +22,6 @@ Install the program
 
 ```bash
   https://github.com/theprogrammersystem/vdt.git
-  python3 vdt.py
 ```
 
 ## How to use 
@@ -30,6 +29,7 @@ Install the program
 To use the program after cloneing/Downloading.
 
 ```bash
+   python3 vdt.py
   Enter URL: 'your video URL goes here'
 ```
 
